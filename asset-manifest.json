@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PhamHuyHoang242001/ITSS_project_demo/static/css/main.384b1124.css",
+    "main.js": "/PhamHuyHoang242001/ITSS_project_demo/static/js/main.ae7c6b16.js",
+    "static/media/memoriesText.png": "/PhamHuyHoang242001/ITSS_project_demo/static/media/memoriesText.fc4d7905219e8dc52672.png",
+    "static/media/noImage.png": "/PhamHuyHoang242001/ITSS_project_demo/static/media/noImage.09cb794ab96d489c1e69.png",
+    "static/media/memoriesLogo.png": "/PhamHuyHoang242001/ITSS_project_demo/static/media/memoriesLogo.8f9cb7dc48a219109416.png",
+    "index.html": "/PhamHuyHoang242001/ITSS_project_demo/index.html",
+    "main.384b1124.css.map": "/PhamHuyHoang242001/ITSS_project_demo/static/css/main.384b1124.css.map",
+    "main.ae7c6b16.js.map": "/PhamHuyHoang242001/ITSS_project_demo/static/js/main.ae7c6b16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.384b1124.css",
+    "static/js/main.ae7c6b16.js"
+  ]
+}
