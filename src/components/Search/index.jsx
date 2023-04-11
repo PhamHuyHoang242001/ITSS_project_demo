@@ -34,7 +34,7 @@ const Search = ({ posts, setSearchData }) => {
         onChange={(e) => setSearch(e.target.value)}
       />
       <Button onClick={searchPost} color="primary" variant="contained">
-        探す
+      探す
       </Button>
     </AppBar>
   );

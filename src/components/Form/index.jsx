@@ -62,7 +62,7 @@ const Form = ({ currentId, setCurrentId, posts, addPost, updatePost }) => {
         <TextField
           name="message"
           variant="outlined"
-          label="簡単な説明"
+          label="場所を説明する"
           fullWidth
           multiline
           minRows={4}
@@ -87,7 +87,7 @@ const Form = ({ currentId, setCurrentId, posts, addPost, updatePost }) => {
           確認する
         </Button>
         <Button variant="contained" color="secondary" size="small" fullWidth onClick={clear}>
-          クリア
+        解消する
         </Button>
       </form>
     </Paper>
